@@ -10,3 +10,7 @@ Do you want a salted password? (Y/n):
 ```
 
 For this package to work properly it will need to be published or symlinked (meaning running `npm link` in the package directory).
+
+## Acknowledgements
+
+Thank you to [this project](https://github.com/danilovilhena/kickstart-it) for the inspiration and [this article](https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e) for the explanation.
